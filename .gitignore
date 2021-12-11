@@ -1,0 +1,4 @@
+.vscode
+assets/*.gif
+assets/*.png
+.DS_Store
